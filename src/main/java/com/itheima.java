@@ -10,4 +10,5 @@ package com;
 public class itheima {
 
     private Integer id;
+    private String username;
 }
